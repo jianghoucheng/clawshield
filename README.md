@@ -19,7 +19,7 @@ Set your guard model through environment variables:
 
 ```bash
 set GUARD_API_TYPE=openai
-set GUARD_API_BASE=https://api.chatanywhere.tech/v1
+set GUARD_API_BASE=xxx
 set GUARD_API_KEY=YOUR_KEY
 set GUARD_MODEL=gpt-5.4
 ```
