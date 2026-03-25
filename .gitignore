@@ -1,0 +1,12 @@
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+
+data/incidents/*.jsonl
+!data/incidents/.gitkeep
+data/runtime/*
+!data/runtime/.gitkeep
+policies/local/*
+!policies/local/.gitkeep
